@@ -1,14 +1,4 @@
----
-title: "The University of Queensland"
-collection: 
-type: 
-permalink: /teaching/UQ
-venue: 
-date: 
-location: 
----
-
-Teaching Assistant at The University of Queensland
+# Teaching Assistant at The University of Queensland
 
 2024 Semester 2 - DATA7703 Machine Learning for Data Scientists.
 

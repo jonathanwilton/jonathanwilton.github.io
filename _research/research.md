@@ -15,3 +15,13 @@ Papers
 Reports
 ======
 * Jonathan Wilton. Design of Neural Networks Using Randomised Algorithms. [AMSI Vacation Research](https://vrs.amsi.org.au/wp-content/uploads/sites/84/2020/01/wilton_jonathan_vrs-report.pdf). 2020.
+
+Software
+======
+* [RobustDecisionTrees](https://github.com/jonathanwilton/RobustDecisionTrees) - Tree methods for learning with label noise
+* [PUExtraTrees](https://github.com/jonathanwilton/PUExtraTrees) - Extra Trees for Positive-Unlabeled learning
+
+Service
+======
+* Reviewing: IJCAI 2024, VISION @ ECCV 2024.
+* Volunteering: AAAI 2024, AJCAI 2023.

@@ -1,6 +1,11 @@
 ---
 title: "The University of Queensland"
-collection: teaching
+collection: 
+type: 
+permalink: /teaching/UQ
+venue: 
+date: 
+location: 
 ---
 
 Teaching Assistant at The University of Queensland

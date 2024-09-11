@@ -14,4 +14,4 @@ Papers
 
 Reports
 ======
-* Jonathan Wilton. Design of Neural Networks Using Randomised Algorithms. AMSI Vacation Research. 2020.
+* Jonathan Wilton. Design of Neural Networks Using Randomised Algorithms. [AMSI Vacation Research](https://vrs.amsi.org.au/wp-content/uploads/sites/84/2020/01/wilton_jonathan_vrs-report.pdf). 2020.

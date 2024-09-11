@@ -1,11 +1,11 @@
 ---
 title: "The University of Queensland"
 collection: teaching
-type: 
+type: "" 
 permalink: /teaching/UQ
-venue: 
-date: 
-location: 
+venue: ""
+date: ""
+location: "" 
 ---
 
 # Teaching Assistant at The University of Queensland

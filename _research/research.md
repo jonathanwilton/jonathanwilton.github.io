@@ -23,5 +23,6 @@ Software
 
 Service
 ======
-* Reviewing: IJCAI 2024, VISION @ ECCV 2024.
+* Reviewing: TPAMI 2025, IJCAI 2024/2025, VISION @ ECCV 2024.
 * Volunteering: AAAI 2024, AJCAI 2023.
+

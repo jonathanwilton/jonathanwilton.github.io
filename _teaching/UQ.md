@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+2025 Semester 2 - INFS4203/7203 Data Mining. <br />
+2025 Semester 1 - STAT3007/7007 Deep Learning. <br />
 2024 Semester 2 - DATA7703 Machine Learning for Data Scientists. <br />
 2024 Semester 2 - INFS4203/7203 Data Mining. <br />
 2024 Semester 1 - STAT3007/7007 Deep Learning.<br />

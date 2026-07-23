@@ -13,7 +13,7 @@ Theory, algorithms, and applications of machine learning, statistics and data sc
 
 Education
 ======
-* __Doctor of Philosophy__. 2022 -  <br />
+* __Doctor of Philosophy__. 2022 - 2026 <br />
 The University of Queensland<br />
 Thesis: Robust Learning Algorithms for Weakly Supervised Data
 

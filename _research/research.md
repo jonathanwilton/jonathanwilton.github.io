@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+See Google Scholar for up to date list of publications.
+
 Papers
 ======
 * Jonathan Wilton, Nan Ye. [Controlling Signal-to-Noise Ratio in Semi-Supervised Learning with Automatic Gradient Scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7162508). Preprint, 2026.
@@ -22,6 +24,23 @@ Software
 ======
 * [RobustDecisionTrees](https://github.com/jonathanwilton/RobustDecisionTrees) - Tree methods for learning with label noise
 * [PUExtraTrees](https://github.com/jonathanwilton/PUExtraTrees) - Extra Trees for Positive-Unlabeled learning
+
+Conferences
+======
+* Jun 2026 [Australian Probability Conference](https://australian-probability-conferences.github.io/apc2026/) (Brisbane, Australia).
+* Jun 2025 [QANZIAM: Queensland ANZIAM Conference](https://qanziam.github.io/past_conferences/conference_2025/) (Brisbane, Australia).
+* Nov 2024 [International Workshop on Weakly Supervised Learning](https://wsl-workshop.github.io/wsl24.html) (Brisbane, Australia).
+* Sep 2024 [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/forum/11th-hlf-2024/) (Heidelberg, Germany).
+* Jun 2024 [Annual Graduate School in Mathematical Aspects of Data Science](https://www.anu.edu.au/alumni/events/annual-graduate-school-in-mathematical-aspects-of-data-science) (Darwin, Australia).
+* Feb 2024 [AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-24/) (Vancouver, Canada).
+* Dec 2023 [Australian Mathematical Society Conference (AustMS)](https://austms2023.smp.uq.edu.au/) (Brisbane, Australia).
+* Dec 2023 [Australasian Joint Conference on Artificial Intelligence (AJCAI)](https://ajcai2023.org/) (Brisbane, Australia).
+* Jun 2023 [QANZIAM: Queensland ANZIAM Conference](https://qanziam.github.io/past_conferences/QANZIAM2023Booklet.pdf) (Brisbane, Australia).
+* Feb 2023 [ANZIAM Conference](https://smp.uq.edu.au/anziam-2023) (Cairns, Australia).
+* Nov 2022 [Neural Information Processing Systems (NeurIPS)](https://neurips.cc/Conferences/2022) (New Orleans, USA).
+* May 2022 [AusCERT Cyber Security Conference](https://conference.auscert.org.au/) (Gold Coast, Australia).
+* Feb 2022 [CSIRO’s Data61 & DST Cyber Security Summer School](https://research.csiro.au/csss/) (Brisbane, Australia).
+* Feb 2020 [AMSIConnect](https://srs.amsi.org.au/) (Melbourne, Australia).
 
 Service
 ======

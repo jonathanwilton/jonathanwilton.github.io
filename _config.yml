@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "dp(1).jpg"
-  name             : "Jonathan Wilton"
+  name             : "Dr Jonathan Wilton"
   # pronouns         : # example: "she/her"  
-  bio              : "Research Officer @ UQ"
+  bio              : "Postdoctoral Research Fellow @ UQ"
   location         : "Brisbane"
   employer         : "The University of Queensland"
   # uri              : # URL

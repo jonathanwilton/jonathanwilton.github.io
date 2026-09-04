@@ -44,6 +44,7 @@ Conferences
 
 Service
 ======
+* [Mathematical Aspects of Machine Learning](https://www.dropbox.com/scl/fi/c6u1b6400mmxfjaq7mxlb/Mathematical-Aspects-of-Machine-Learning-Schedule.paper?rlkey=uovxpn11i0ftbl683m5twfp7i&dl=0) Reading Group 
 * Reviewing: NeurIPS 2026, ICML2026, ICLR2026, TPAMI 2025, IJCAI 2024/2025, VISION @ ECCV 2024.
 * Volunteering: AAAI 2024, AJCAI 2023.
 
